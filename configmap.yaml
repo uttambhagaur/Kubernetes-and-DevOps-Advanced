@@ -4,4 +4,4 @@ metadata:
   name: postgres-config
 data:
   POSTGRES_DB: employeedb
-  POSTGRES_USER: user
+  POSTGRES_USER: postgres
